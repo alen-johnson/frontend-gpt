@@ -10,7 +10,7 @@ function Whatisgpt3() {
 " />
       </div>
       <div className='gpt3__whatgpt3-heading'>
-        <h1 className='gradient__text'>The possibilities are beyong our imagination</h1>
+        <h1 className='gradient__text'>The possibilities are beyond our imagination</h1>
       <p>Explore the library</p>
       </div>
       <div className='gpt3__whatgpt3-container'>
